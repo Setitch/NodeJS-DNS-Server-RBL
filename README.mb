@@ -1,0 +1,9 @@
+# NodeJS-DNS-Server-RBL
+Simple DNS-RBL Server written in NodeJS
+
+PS: I dont remember what projects i based this one on. If someone knows them, please give me a hint. Almost all code is rewritten. (Apart from enumarated data).
+
+# system lacks
+* Better DataBase for records.
+* Blackhole
+* More answers (needs data)
