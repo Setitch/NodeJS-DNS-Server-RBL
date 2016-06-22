@@ -1,0 +1,29 @@
+{
+  "name": "RDBL-Server",
+  "version": "1.0.0",
+  "description": "",
+  "license": "propertiary",
+  "private": true,
+  "author": {
+    "name": "Artur (Seti) £abudziñski",
+    "email": "rbdl@chibi.pl"
+  },
+  "contributors": [
+  ],
+  "main": "./app.js",
+  "scripts": {
+    "start": "nodejs app.js"
+  },
+  "dependencies": {
+    "q": "*",
+    "sha1": "*"
+  },
+  "devDependencies": {
+    "vows": "*"
+  },
+  "repository": {
+  },
+  "scripts": {
+  },
+  "jscsConfig": {}
+}
