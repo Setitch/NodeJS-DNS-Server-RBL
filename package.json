@@ -5,25 +5,20 @@
   "license": "propertiary",
   "private": true,
   "author": {
-    "name": "Artur (Seti) £abudziñski",
+    "name": "Artur (Seti) ï¿½abudziï¿½ski",
     "email": "rbdl@chibi.pl"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "main": "./app.js",
-  "scripts": {
-    "start": "nodejs app.js"
-  },
+  "scripts": {},
   "dependencies": {
     "q": "*",
-    "sha1": "*"
+    "sha1": "*",
+    "sqlite3": "^4.0.0"
   },
   "devDependencies": {
     "vows": "*"
   },
-  "repository": {
-  },
-  "scripts": {
-  },
+  "repository": {},
   "jscsConfig": {}
 }

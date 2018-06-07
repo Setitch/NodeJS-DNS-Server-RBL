@@ -21,7 +21,9 @@ var db = new sqlite3.Database('dns.db');
 function Server() {
     var that = this;
     var socket = Dgram.createSocket('udp4');
-    util.inherits(that, EventEmitter);
+	
+	//console.log(that);
+    //util.inherits(that, EventEmitter);
 
     socket.on('message', function(msg, rinfo) {
         rinfo.socket = socket;
