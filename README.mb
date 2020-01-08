@@ -1,3 +1,11 @@
+# UPDATE FROM : 2020.01.08 - Development will be resumed and project rewritten into typescript + actual db.
+Plan:
+
+* Rewrite into typescript
+* Write database support
+* Reading emails and removing/marking mails found there (after receive scan - for ppl using 3rd party email system who wants to remove spam before they log in into it and work on email items)
+
+
 # NodeJS-DNS-Server-RBL
 Simple DNS-RBL Server written in NodeJS
 
@@ -7,3 +15,5 @@ PS: I dont remember what projects i based this one on. If someone knows them, pl
 * Better DataBase for records.
 * Blackhole
 * More answers (needs data)
+
+
